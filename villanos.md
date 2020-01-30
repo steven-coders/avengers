@@ -2,3 +2,4 @@
 
 * Doom
 * duende verde
+* Capitán America
